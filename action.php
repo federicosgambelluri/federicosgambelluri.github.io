@@ -26,7 +26,7 @@
 				
 				echo "<p>Cosa vuoi fare adesso? </p> <br>";
 				echo "<a href='addPost.php'><button>Pubblica Post</button></a> <br>";
-				echo "<a href='deletePost.php'><button>Rimuovi Post</button></a> <br>";
+				echo "<a href='deletePost.php'><button>Rimuovi Post</button></a> <br><br><br>";
 
 				
 				require 'db.php';
