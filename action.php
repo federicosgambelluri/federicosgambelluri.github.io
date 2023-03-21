@@ -26,8 +26,8 @@
 				echo "<h1>Ecco qui tutti i tuoi vinili</h1>";
 				
 				echo "<p>Cosa vuoi fare adesso? </p> <br>";
-				echo "<a href='addPost.php'><button>Pubblica Post</button></a> <br>";
-				echo "<a href='deletePost.php'><button>Rimuovi Post</button></a> <br><br><br>";
+				echo "<a href='addPost.php'><button>Inserisci un disco</button></a> <br>";
+				echo "<a href='deletePost.php'><button>Rimuovi un disco</button></a> <br><br><br>";
 
 				
 				require 'db.php';
@@ -38,8 +38,8 @@
 				echo "<h1>Ecco qui tutti i tuoi vinili</h1>";
 				
 				echo "<p>Cosa vuoi fare adesso? </p> <br>";
-				echo "<a href='addPostBeppe.php'><button>Pubblica Post</button></a> <br>";
-				echo "<a href='deletePostBeppe.php'><button>Rimuovi Post</button></a> <br><br><br>";
+				echo "<a href='addPost.php'><button>Inserisci un disco</button></a> <br>";
+				echo "<a href='deletePost.php'><button>Rimuovi un disco</button></a> <br><br><br>";
 
 				
 				require 'dbBeppe.php';

@@ -20,7 +20,7 @@ $impostaStile = new metodi();
 
         
             <form method='post'> 
-            <label for="N">Inserisci il numero del disco</label> <br>
+            <label for="N">Inserisci il titolo del disco</label> <br>
             <input type="number" name="N" id="N" ><br><br>
                           
                 <button type="submit">Rimuovi</button>
